@@ -84,7 +84,7 @@ streamlit run chat_pdf_rag.py
 
 ### Multi-PDF Upload
 
-![Multi PDF Upload](screenshots/multi_pdfs.png)
+![Multi PDF Upload](screenshots/multi-pdfs.png)
 
 ### Chat Response
 
